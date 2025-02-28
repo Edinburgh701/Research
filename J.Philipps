@@ -1,39 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jorge Philipps</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jorge Philipps</title>
 </head>
 <body>
-    <h1>More on Reaserch</h1>
-    <p> Bellow are relevant work/leadership experiences, and the reaserch my mentors are preparing me to work with</p>
+  <h1>More on **Research**</h1>
+  <p> **Below** are relevant work/leadership experiences, and the **research** my mentors are preparing me to work with.</p>
 
-<h2>Mentorshps</h2>
-<p> 
-I am currently working with my graduate mentors in the Physics and Mathematics depratment to develop a deep understanding of the role and
-theory of symetery in classical Mechanics, topics include; Lagrangian & Hamiltonian dynamics, the study of manifolds/point set topology,
-writing mathematical proofs, group theory, and elementary lie gropus, calulus of variations, cartan caclulus, symplectic geometry(high focus).
-Our mentorship program include supervised reading of the following texts: "Mathematical Methods of Classical Mechanics" V.I Arnold,
-"Intorduction to mehcancis and symetry" J.E.Marsden & T.S.Raitu, "Foundations of Mechanics" R.Abraham & J.E.Marsden.
-</p>
+  <h2>Mentorships</h2>
+  <p>
+    I am currently working with my graduate mentors in the Physics and Mathematics **department** to develop a deep understanding of the role and
+    theory of **symmetry** in classical Mechanics. Topics include: Lagrangian & Hamiltonian dynamics, the study of manifolds/point set topology,
+    writing mathematical proofs, group theory, **and elementary Lie groups, the calculus** of variations, Cartan calculus, and symplectic geometry (high focus).
+    Our mentorship program includes supervised reading of the following texts: 
+    <em>"Mathematical Methods of Classical Mechanics" (V.I. Arnold), 
+    "Introduction to Mechanics and Symmetry" (J.E. Marsden & T.S. Ratiu), 
+    "Foundations of Mechanics" (R. Abraham & J.E. Marsden).</em>
+  </p>
 
-<h3>Summer reaserch(2025):</h3>
+  <h3>Summer Research (2025)</h3>
+  <p>
+    I am currently preparing to participate in summer **research** with the Department of Physics of the University of Illinois Urbana-Champaign, 
+    with the following project in computational/theoretical Physics: We will identify a project in modeling Event Horizon Telescope sources that 
+    matches student skills and background. Possibilities include investigating images of black holes and how they depend on the properties of the
+    surrounding plasma.
+  </p>
 
-<p>
-I am currently preparing to participate in summer reserch with the department of physics of the University of Illinois Urbana -Champaign, 
-with the folowing project in computaional/Theoretical Physics: We will identify a project in modeling Event Horizon Telescope sources that 
-matches student skills and background.Possibilities include investigating images of black holes and how they depend on the properties of the
-surrounding plasma. 
-</p>
-
-<h4>Leadership:</h4>
-<p>
-I am currenlty a lead instructor at the Mathatnasium of prosper. My responsiblities consist of fostering an envirnoment
-with the pupouse of offering all students, a safe environment to be themselves, and to make the subject of learning and Mathematics 
-and skills for any kind of problem solving fun. I work closely with other Lead instuctors, and the center owner/director, to aslo
-assist with maintianing a local buissiness.
-</p>
-
+  <h4>Leadership</h4>
+  <p>
+    I am currently a lead instructor at the **Mathnasium** of Prosper. My **responsibilities** consist of fostering an **environment**
+    with the **purpose** of offering all students a safe environment to be themselves, and making the subject of Mathematics and problem-solving fun. 
+    I work closely with other lead instructors and the center owner/director, to also assist with **maintaining** a local **business**.
+  </p>
 </body>
 </html>
+
